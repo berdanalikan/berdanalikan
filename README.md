@@ -1,6 +1,8 @@
 ## Hi there 👋
 🔭 I’m currently working on E-Commerce.
+
 🌱 I’m currently learning Python.
+
 📫 How to reach me: berdanalikan@gmail.com
 <!--
 **berdanalikan/berdanalikan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
